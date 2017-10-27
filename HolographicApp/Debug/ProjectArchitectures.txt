@@ -1,0 +1,1 @@
+S:\DX11\HolographicApp\HolographicApp\HolographicApp.vcxproj;x86

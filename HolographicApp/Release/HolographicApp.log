@@ -1,0 +1,17 @@
+﻿  compilation object save succeeded; see S:\DX11\HolographicApp\Release\HolographicApp\PixelShader.cso
+  compilation object save succeeded; see S:\DX11\HolographicApp\Release\HolographicApp\VertexShader.cso
+  compilation object save succeeded; see S:\DX11\HolographicApp\Release\HolographicApp\VPRTVertexShader.cso
+  compilation object save succeeded; see S:\DX11\HolographicApp\Release\HolographicApp\GeometryShader.cso
+  pch.cpp
+  AppView.cpp
+  WICTextureLoader.cpp
+  HolographicAppMain.cpp
+  DeviceResources.cpp
+  CameraResources.cpp
+  SpatialInputHandler.cpp
+  SpinningCubeRenderer.cpp
+  正在生成代码
+  All 4454 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  HolographicApp.vcxproj -> S:\DX11\HolographicApp\Release\HolographicApp\HolographicApp.exe
+  HolographicApp.vcxproj -> S:\DX11\HolographicApp\Release\HolographicApp\HolographicApp.pdb (Full PDB)
